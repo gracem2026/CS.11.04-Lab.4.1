@@ -27,7 +27,7 @@ public class Main {
     }
 
     // 3. encryptThis
-    // I'm not sure on how to do this one
+    // I'm not sure on how to do this one :(
     public static String encryptThis(String str){
         String result = "";
         int start = 0;
